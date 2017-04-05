@@ -1,5 +1,5 @@
-2017 April Fool's Day Challenge & Competition
-=============================================
+2017 *April Fool's Day* Challenge & Competition
+===============================================
 
 Rules
 -----
@@ -10,6 +10,7 @@ Rules
 * No personal insults.
 * English is the preferred language, other languages are allowed but in small amounts. Please try to use English as the primary language for communication.
 * As always do not violate any freenode policies: https://freenode.net/policies
+* Do NOT share anything from the /topics in any of the levels.
 
 
 Tips and Guidelines
