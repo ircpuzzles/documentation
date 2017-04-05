@@ -32,8 +32,8 @@ Random Useful Things To Know
 * The ***ircpuzzles*** account has the cloak ***@ircpuzzles/official***
 
 
-Previous AFP Puzzles
---------------------
+Previous *April Fool's Day* Puzzles
+-----------------------------------
 * [2016](https://ircpuzzles.org/blog/2017/03/2016-afd-summary/)
 * [2015](https://ircpuzzles.org/blog/2017/03/2015-afd-summary/)
 * [2014](https://web-beta.archive.org/web/20160312065634/https://blog.freenode.net/2014/04/april-1st-2014-followup)
