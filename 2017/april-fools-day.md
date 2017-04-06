@@ -16,7 +16,6 @@ Rules
 Tips and Guidelines
 -------------------
 * You *can* solve all of this without actually coding anything
-* You *can* solve all of this with just a web browser and access to a useful search engine, https://duckduckstart.com/
 * The official channels will be registered to the IRC account of **ircpuzzles** and will all begin with `######` (that's six (6) `#`)
 * You can quickly see if a channel exists with: `/mode ######channel_name`
 * Pay attention to the theme or patterns among the levels you have solved.
